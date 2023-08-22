@@ -2,7 +2,7 @@
 
 👋 Hey there! I'm Vayola Pradeep, a passionate web developer with a knack for turning ideas into pixel-perfect reality. I love sharing my insights and discoveries on DEV.to. Check out my latest articles and let's dive into the world of web development together! 💻🌐
 
-📚 Latest Articles on my [DEV.to](https://dev.to/vayolapradeep):
+📚 Latest Articles on my <a href="https://dev.to/vayolapradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vayolapradeep" height="30" width="40" /></a>:
 - [Pseudo-Classes & Elements](https://dev.to/vayolapradeep/pseudo-classes-elements-3gp0)
 
 
@@ -12,5 +12,4 @@
 <a href="https://twitter.com/vayolapradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vayola pradeep" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vayolapradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vayolapradeep" height="30" width="40" /></a>
 <a href="https://instagram.com/codewithvayola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithvayola" height="30" width="40" /></a>
- 
-<a href="https://dev.to/vayolapradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vayolapradeep" height="30" width="40" /></a></p>
+ <a href="https://dev.to/vayolapradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vayolapradeep" height="30" width="40" /></a></p>
