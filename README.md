@@ -1,4 +1,6 @@
 
+![WhatsApp Image 2023-08-22 at 2 21 32 PM](https://github.com/sinonagar123/dev_to_articles/assets/102567147/36d8c261-5256-4a7f-ae03-f978443ffa1e)
+
 
 👋 Hey there! I'm Vayola Pradeep, a passionate web developer with a knack for turning ideas into pixel-perfect reality. I love sharing my insights and discoveries on DEV.to. Check out my latest articles and let's dive into the world of web development together! 💻🌐
 
