@@ -6,8 +6,10 @@
 
 📚 Latest Articles on my <a href="https://dev.to/vayolapradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vayolapradeep" height="30" width="40" /></a>:
 - [Pseudo-Classes & Elements](https://dev.to/vayolapradeep/pseudo-classes-elements-3gp0)
+- [Difference between CSS display inline, block & inline-block](https://dev.to/vayolapradeep/difference-between-css-display-inline-block-inline-block-3cpk)
+- [HTTP Methods](https://dev.to/vayolapradeep/http-methods-4fb5)
 
-
+  
 🌐 Connect with me:
 <p align="left">
 <a href="https://codepen.io/vayolapradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vayolapradeep" height="30" width="40" /></a>
