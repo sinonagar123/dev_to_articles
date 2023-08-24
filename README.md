@@ -11,6 +11,7 @@
 - [Enhancing Text with CSS Text Shadow Effects](https://dev.to/vayolapradeep/enhancing-text-with-css-text-shadow-effects-3n5e)
 - [Demystifying CSS: How to Center a Div for Perfect Layouts](https://dev.to/vayolapradeep/demystifying-css-how-to-center-a-div-for-perfect-layouts-1eon)
 - [GIT Cheatsheet](https://dev.to/vayolapradeep/git-cheatsheet-1c1d)   
+- [What is <div>,<section> & <article>](https://dev.to/vayolapradeep/what-is--4boc)
 
 
 🌐 Connect with me:
