@@ -10,8 +10,7 @@
 - [HTTP Methods](https://dev.to/vayolapradeep/http-methods-4fb5)
 - [Enhancing Text with CSS Text Shadow Effects](https://dev.to/vayolapradeep/enhancing-text-with-css-text-shadow-effects-3n5e)
 - [Demystifying CSS: How to Center a Div for Perfect Layouts](https://dev.to/vayolapradeep/demystifying-css-how-to-center-a-div-for-perfect-layouts-1eon)
-
-   
+- [GIT Cheatsheet](https://dev.to/vayolapradeep/git-cheatsheet-1c1d)   
 🌐 Connect with me:
 <p align="left">
 <a href="https://codepen.io/vayolapradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vayolapradeep" height="30" width="40" /></a>
