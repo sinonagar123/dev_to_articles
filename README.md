@@ -7,7 +7,7 @@
 📚 Latest Articles on my <a href="https://dev.to/vayolapradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vayolapradeep" height="30" width="40" /></a>:
 - [Pseudo-Classes & Elements](https://dev.to/vayolapradeep/pseudo-classes-elements-3gp0)
 - [Difference between CSS display inline, block & inline-block](https://dev.to/vayolapradeep/difference-between-css-display-inline-block-inline-block-3cpk)
-- [HTTP Methods](https://dev.to/vayolapradeep/http-methods-4fb5)
+- [HTTP Methods Demystified: A Guide to Understanding HTTP Request Methods(https://dev.to/vayolapradeep/http-methods-4fb5)
 - [Enhancing Text with CSS Text Shadow Effects](https://dev.to/vayolapradeep/enhancing-text-with-css-text-shadow-effects-3n5e)
 - [Demystifying CSS: How to Center a Div for Perfect Layouts](https://dev.to/vayolapradeep/demystifying-css-how-to-center-a-div-for-perfect-layouts-1eon)
 - [Ultimate Git Cheat Sheet: A Quick Reference Guide for Git Commands and Workflows](https://dev.to/vayolapradeep/git-cheatsheet-1c1d)   
