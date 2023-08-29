@@ -12,6 +12,8 @@
 - [Demystifying CSS: How to Center a Div for Perfect Layouts](https://dev.to/vayolapradeep/demystifying-css-how-to-center-a-div-for-perfect-layouts-1eon)
 - [Ultimate Git Cheat Sheet: A Quick Reference Guide for Git Commands and Workflows](https://dev.to/vayolapradeep/git-cheatsheet-1c1d)   
 - [Understanding HTML Semantic Elements: Exploring the Purpose of `<div>`,`<section>` & `<article>`](https://dev.to/vayolapradeep/what-is--4boc)
+- [Mastering CSS Gradients: Creating Stunning Visual Effects with Color 🌈🎨Transitions](https://dev.to/vayolapradeep/mastering-css-gradients-creating-stunning-visual-effects-with-color-transitions-2fd2)
+- [Unlocking Web Accessibility with Semantic HTML Elements; Beyond Design and Presentation](https://dev.to/vayolapradeep/unlocking-web-accessibility-with-semantic-html-elements-beyond-design-and-presentation-5ahg)
 
 
 🌐 Connect with me:
