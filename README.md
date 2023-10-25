@@ -14,7 +14,7 @@
 - [Understanding HTML Semantic Elements: Exploring the Purpose of `<div>`,`<section>` & `<article>`](https://dev.to/vayolapradeep/what-is--4boc)
 - [Mastering CSS Gradients: Creating Stunning Visual Effects with Color 🌈🎨Transitions](https://dev.to/vayolapradeep/mastering-css-gradients-creating-stunning-visual-effects-with-color-transitions-2fd2)
 - [Unlocking Web Accessibility with Semantic HTML Elements; Beyond Design and Presentation](https://dev.to/vayolapradeep/unlocking-web-accessibility-with-semantic-html-elements-beyond-design-and-presentation-5ahg)
-
+- [How Python Programs Works?](https://dev.to/vayolapradeep/how-python-programs-works-15f)
 
 🌐 Connect with me:
 <p align="left">
