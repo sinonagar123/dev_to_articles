@@ -16,6 +16,8 @@
 - [Unlocking Web Accessibility with Semantic HTML Elements; Beyond Design and Presentation](https://dev.to/vayolapradeep/unlocking-web-accessibility-with-semantic-html-elements-beyond-design-and-presentation-5ahg)
 - [How Python Programs Works?](https://dev.to/vayolapradeep/how-python-programs-works-15f)
 - [How a Program Works?](https://dev.to/vayolapradeep/exploring-the-wonders-of-how-programming-really-works-kp0)
+
+  
 🌐 Connect with me:
 <p align="left">
 <a href="https://codepen.io/vayolapradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vayolapradeep" height="30" width="40" /></a>
