@@ -16,7 +16,7 @@
 - [Unlocking Web Accessibility with Semantic HTML Elements; Beyond Design and Presentation](https://dev.to/vayolapradeep/unlocking-web-accessibility-with-semantic-html-elements-beyond-design-and-presentation-5ahg)
 - [How Python Programs Works?](https://dev.to/vayolapradeep/how-python-programs-works-15f)
 - [How a Program Works?](https://dev.to/vayolapradeep/exploring-the-wonders-of-how-programming-really-works-kp0)
-
+- [How to download and install Python 3 for Mac](https://dev.to/vayolapradeep/how-to-download-and-installpython-3-for-mac-2o9n)
   
 🌐 Connect with me:
 <p align="left">
