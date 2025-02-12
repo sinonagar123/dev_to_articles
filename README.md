@@ -20,7 +20,7 @@
 - [How to run Python IDLE on a Mac](https://dev.to/vayolapradeep/how-to-run-python-idle-on-a-mac-3foe)
 - [What is Python Turtle Graphics?](https://dev.to/vayolapradeep/what-is-turtle-graphics-d85)
 - [What Are Variables in Python? – The Ultimate Beginner’s Guide!](https://dev.to/vayolapradeep/variables-in-python-350f/)
-  
+- [Python input() Function - Detailed Explanation!](https://dev.to/vayolapradeep/python-input-function-detailed-explanation-3898/)
 🌐 Connect with me:
 <p align="left">
 <a href="https://codepen.io/vayolapradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vayolapradeep" height="30" width="40" /></a>
