@@ -1,0 +1,1 @@
+- [Python input() Function - Detailed Explanation!](https://dev.to/vayolapradeep/python-input-function-detailed-explanation-3898/)
